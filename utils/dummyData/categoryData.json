@@ -1,0 +1,39 @@
+[
+    {
+        "name":"Homecare",
+        "slug":"homecare"
+    },
+    {
+        "name":"Mobility Aids",
+        "slug":"mobility-aids"
+    },
+    {
+        "name":"Orthopedic Supports",
+        "slug":"orthopedic-supports"
+    },
+    {
+        "name":"Mother & Child Care",
+        "slug":"mother-child-care"
+    },
+    {
+        "name":"Compression Garment",
+        "slug":"compression-garment"
+    },
+    {
+        "name":"Respiratory Care",
+        "slug":"respiratory-care"
+    },
+    {
+        "name":"Skin Care",
+        "slug":"skin-care"
+    },
+    {
+        "name":"Orthopedic Shoes and Insoles",
+        "slug":"orthopedic-shoes-and-insoles"
+    },
+    {
+        "name":"Rental Products",
+        "slug":"rental-products"
+    }
+
+]

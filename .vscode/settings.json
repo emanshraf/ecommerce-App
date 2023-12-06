@@ -1,0 +1,12 @@
+{
+"separators.enabledSymbols": [
+    "Classes",
+    "Enums",
+    // "Functions",
+    "Interfaces",
+    // "Methods",
+    "Namespaces",
+    "Structs"
+  ],
+  "cSpell.words": ["uuidv", "virtuals"]
+}
